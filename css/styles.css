@@ -67,7 +67,7 @@ body {
 .header-link:focus {
   color: var(--color-ocean);
 }
-.cuurent {
+.site-nav .header-link.cuurent {
   color: var(--color-ocean);
 }
 .address {
