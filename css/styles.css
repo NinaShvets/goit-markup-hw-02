@@ -32,6 +32,7 @@ body {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 .section-text {
@@ -47,7 +48,7 @@ body {
   font-family: 'Raleway', sans-serif;
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.33;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 
@@ -87,6 +88,7 @@ body {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
+  letter-spacing: 0.02em;
   color: var(--color-white);
 }
 .button {
@@ -129,9 +131,9 @@ body {
 /* Portfolio */
 .list-button {
   font-family: inherit;
-  font-weight: var(--font-weight);
+  font-weight: 500;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.17;
   text-align: center;
   letter-spacing: 0.04em;
   color: var(--color-iris);
