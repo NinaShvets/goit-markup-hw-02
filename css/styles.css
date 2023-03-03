@@ -70,8 +70,10 @@ body {
 .cuurent {
   color: var(--color-ocean);
 }
-.address-link {
+.address {
   font-style: normal;
+}
+.address-link {
   font-size: 16px;
   line-height: 1.5;
   color: var(--color-slate);
@@ -95,7 +97,7 @@ body {
   font-family: inherit;
   background-color: var(--color-iris);
   color: var(--color-white);
-  font-weight: var(--font-weight);
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
@@ -133,7 +135,7 @@ body {
   font-family: inherit;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.17;
+  line-height: 1.5;
   text-align: center;
   letter-spacing: 0.04em;
   color: var(--color-iris);
