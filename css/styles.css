@@ -67,9 +67,6 @@ body {
 .header-link:focus {
   color: var(--color-ocean);
 }
-.cuurent {
-  color: var(--color-ocean);
-}
 .address {
   font-style: normal;
 }
